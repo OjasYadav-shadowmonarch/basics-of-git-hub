@@ -1,3 +1,4 @@
+//this is the code of queue written by me
 #include <stdio.h>
 #include <stdlib.h>
 
